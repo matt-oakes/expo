@@ -12,7 +12,7 @@
 
 ### 💡 Others
 
-- Migrated constants interface from `unimodules-constants-interface` to `expo-modules-core`. ([#12876](https://github.com/expo/expo/pull/12876) by [@tsapeta](https://github.com/tsapeta))
+- Migrated `unimodules-font-interface` and `unimodules-constants-interface` to `expo-modules-core`. ([#12949](https://github.com/expo/expo/pull/12949), [#12876](https://github.com/expo/expo/pull/12876) by [@tsapeta](https://github.com/tsapeta))
 
 ## 9.1.0 — 2021-03-10
 
